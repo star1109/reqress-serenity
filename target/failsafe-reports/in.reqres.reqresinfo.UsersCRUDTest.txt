@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: in.reqres.reqresinfo.UsersCRUDTest
+-------------------------------------------------------------------------------
+Tests run: 13, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.57 sec - in in.reqres.reqresinfo.UsersCRUDTest
